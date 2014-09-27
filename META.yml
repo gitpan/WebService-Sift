@@ -20,4 +20,4 @@ resources:
   bugtracker: https://github.com/nupfel/WebService-Sift/issues
   homepage: https://github.com/nupfel/WebService-Sift/wiki
   repository: git://github.com/nupfel/WebService-Sift.git
-version: '0.1'
+version: '0.2'
